@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/home/Documents/tetris/visual_elements/Menu.cpp
+Menu.h
+/home/home/Documents/tetris/visual_elements/Menu.h
+iostream
+-
+time.h
+-
+string
+-
+
+/home/home/Documents/tetris/visual_elements/Menu.h
+string
+-
+

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/main.cpp.o -c /home/home/Documents/tetris/main.cpp",
+  "file": "/home/home/Documents/tetris/main.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/Tetris.cpp.o -c /home/home/Documents/tetris/Tetris.cpp",
+  "file": "/home/home/Documents/tetris/Tetris.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/Field.cpp.o -c /home/home/Documents/tetris/visual_elements/Field.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/Field.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/figure/Figure.cpp.o -c /home/home/Documents/tetris/visual_elements/figure/Figure.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/figure/Figure.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/figure/concrete_figure/Stick.cpp.o -c /home/home/Documents/tetris/visual_elements/figure/concrete_figure/Stick.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/figure/concrete_figure/Stick.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/figure/concrete_figure/Square.cpp.o -c /home/home/Documents/tetris/visual_elements/figure/concrete_figure/Square.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/figure/concrete_figure/Square.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/figure/concrete_figure/HookRight.cpp.o -c /home/home/Documents/tetris/visual_elements/figure/concrete_figure/HookRight.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/figure/concrete_figure/HookRight.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/figure/concrete_figure/HookLeft.cpp.o -c /home/home/Documents/tetris/visual_elements/figure/concrete_figure/HookLeft.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/figure/concrete_figure/HookLeft.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/figure/concrete_figure/Piramide.cpp.o -c /home/home/Documents/tetris/visual_elements/figure/concrete_figure/Piramide.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/figure/concrete_figure/Piramide.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/figure/concrete_figure/LetterS.cpp.o -c /home/home/Documents/tetris/visual_elements/figure/concrete_figure/LetterS.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/figure/concrete_figure/LetterS.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/figure/concrete_figure/LetterS_reverse.cpp.o -c /home/home/Documents/tetris/visual_elements/figure/concrete_figure/LetterS_reverse.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/figure/concrete_figure/LetterS_reverse.cpp"
+},
+{
+  "directory": "/home/home/Documents/tetris/build",
+  "command": "/usr/bin/g++   -I/home/home/Documents/tetris/visual_elements -I/home/home/Documents/tetris/visual_elements/figure -I/home/home/Documents/tetris/visual_elements/figure/concrete_figure  -g   -std=gnu++11 -o CMakeFiles/tetris.dir/visual_elements/Menu.cpp.o -c /home/home/Documents/tetris/visual_elements/Menu.cpp",
+  "file": "/home/home/Documents/tetris/visual_elements/Menu.cpp"
+}
+]

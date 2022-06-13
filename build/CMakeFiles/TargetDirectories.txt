@@ -1,0 +1,3 @@
+/home/home/Documents/tetris/build/CMakeFiles/rebuild_cache.dir
+/home/home/Documents/tetris/build/CMakeFiles/edit_cache.dir
+/home/home/Documents/tetris/build/CMakeFiles/tetris.dir
